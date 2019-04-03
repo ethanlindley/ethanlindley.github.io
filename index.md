@@ -8,10 +8,6 @@ Self-taught programmer with a passion for technology. I like socket programming,
 
 [A simple game launcher for _The Legend of Pirates Online,_ a private server recreation of Disney's now-defunct MMORPG, _Pirates of the Caribbean Online_](https://github.com/ethanlindley/tlopo-launcher)
 
-### `socketcraft.py`
-
-A proof-of-concept Minecraft server emulator written in Python 3.7 and built upon the [`twisted` networking engine](https://twistedmatrix.com/trac/). _Please note: this project is currently under development._
-
 ### `ByteArray.py`
 
 Originally authored by [Zaseth](https://github.com/Zaseth), [`ByteArray.py`](https://github.com/ethanlindley/ByteArray.py) is a simple script providing methods for reading and writing binary data types in Python 2.7.14.
